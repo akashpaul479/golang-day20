@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS students;
+
+DROP TABLE IF EXISTS lecturer;
+
+DROP TABLE IF EXISTS officestaff;
